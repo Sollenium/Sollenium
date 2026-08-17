@@ -5,7 +5,7 @@
 Sollenium is a custom operating system built from the ground up, with the goal of understanding and implementing the fundamental layers that make a computer operate.
 
 <p align="center">
-  <img src="assets/logo.png" width="300">
+  <img src="assets/logo.jpg" width="300">
 </p>
 
 ## Status
