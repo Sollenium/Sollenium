@@ -3,7 +3,7 @@
 > **An OS that rises every day, just like the sun.**
 
 <p align="center">
-  <img src="assets/logo.png" width="150">
+  <img src="assets/logo.jpg" width="150">
 </p>
 <p align = "center">
     <a href="https://sollenium.github.io/Sollenium/">Documentation</a>
